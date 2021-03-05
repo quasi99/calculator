@@ -1,2 +1,3 @@
 # calculator
-my fist calc proj
+
+a calculator project for odin project
